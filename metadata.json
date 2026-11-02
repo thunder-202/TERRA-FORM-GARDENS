@@ -1,0 +1,6 @@
+{
+  "name": "TERRA FORM GARDENS",
+  "description": "Melbourne landscape architecture and luxury garden design studio crafting thoughtful outdoor environments where architecture, nature, and everyday living unite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
